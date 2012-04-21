@@ -1,0 +1,1 @@
+An old Project for high school, Emotiv device controlling a robot arm.
